@@ -1,0 +1,85 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+.contenedor{
+  padding-top: 50px;
+  width: 100%;
+  margin: auto;
+  text-align: center;
+  padding-bottom: 50px;
+  background-color: black;
+  color: white;
+  /* display: flex;
+  flex-flow: wrap;
+  justify-content: space-around; */
+  background-image: url(../img/tupac2.jpg);
+  background-size: cover;
+  background-position: top;
+}
+.texto{
+  /* background-color: green; */
+  padding: 120px 0px;
+  margin: auto;
+}
+.titulo h1{
+  font-family: 'Montagu Slab', serif;
+  font-size: 50px;
+}
+.titulo p{
+  font-family: 'Montagu Slab', serif;
+  margin: 20px 0px;
+  font-size: 20px;
+}
+.frase{
+  margin-top: 10px;
+  font-family: 'Montagu Slab', serif;
+  font-weight: 100;
+}
+.imagen{
+  /* background-color: red; */
+  padding-right: 300px;
+}
+
+.biografia h1{
+  text-align: center;
+  margin-bottom: 35px;
+  font-family: 'Montagu Slab', serif;
+  font-size: 30px;
+}
+.biografia{
+  margin: auto;
+  width: 100%;
+  background-color: #841818;
+  font-family: 'Spartan', sans-serif;
+  color: white;
+  padding: 50px 350px;
+  margin-bottom: 0px;
+}
+.enfasis{
+  font-size: 25px;
+  font-weight: bolder;
+  color: black;
+}
+.informacion{
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-family: 'Spartan', sans-serif;
+  padding: 50px 0px;
+}
+.informacion p{
+  margin-bottom: 30px;
+}
+.informacion a{
+  text-decoration: none;
+  font-family: 'Montagu Slab', serif;
+  padding: 10px 20px;
+  color: black;
+  background-color: #e0bb20;
+}
+.informacion a:hover{
+  background-color: #841818;
+  color: #fafafa;
+}
