@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenidos a mi página de GitHub
 
 You can use the [editor on GitHub](https://github.com/camilomcm/tributo-2Pac/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
